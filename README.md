@@ -5,6 +5,9 @@ Automated flight operations reporting using Python,
 Groq AI, Excel, and Power BI — reducing manual 
 reporting time by 60%.
 
+## Overview of Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZTNiYTRmN2ItOGVmMi00ZTZhLWE4MjAtYTk1MjllOWQ0NTUyIiwidCI6IjEyYzk2ZjBkLTQzZmUtNDM0Mi1iZGIxLTk3M2QyZTRjOWI0YiJ9
+
 ## 🚀 Features
 - 📊 Analyzes 173 flights across 4 airlines
 - 🔍 Auto detects anomalies (delays > 2 hours)
