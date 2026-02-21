@@ -1,9 +1,14 @@
 # ✈️ AI-Powered Flight Data Analysis & Automation
 
-## 📌 Overview
-Automated flight operations reporting using Python, 
-Groq AI, Excel, and Power BI — reducing manual 
-reporting time by 60%.
+## 📌 Project Overview
+
+This project focuses on analyzing historical flight operation data to identify delay patterns and generate operational insights using automated data analysis techniques. The goal is to reduce manual reporting effort and provide data-driven visibility into airline performance.
+
+The system processes flight data, calculates delay metrics, classifies flight status, and produces analytical insights across airlines and routes. The project is designed to be scalable, with planned workflow automation for real-time updates.
+
+## 🎯 Problem Statement
+
+Airline operations generate large volumes of flight data daily. Manual analysis of delays, routes, and performance is time-consuming and error-prone, limiting timely decision-making. There is a need for an automated and repeatable approach to analyze flight delays and operational trends.
 
 ## Overview of Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZTNiYTRmN2ItOGVmMi00ZTZhLWE4MjAtYTk1MjllOWQ0NTUyIiwidCI6IjEyYzk2ZjBkLTQzZmUtNDM0Mi1iZGIxLTk3M2QyZTRjOWI0YiJ9
